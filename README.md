@@ -1,1 +1,1 @@
-Here is Shell readme
+This is Shell permissions readme
